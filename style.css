@@ -9,6 +9,7 @@ h1{color: blue;}
 
 /* body{background-color: black;}
 *{color: white;} 
-* sirve para pintar el fondo de negro y las palabras en blanco */
+/* sirve para pintar el fondo de negro y las palabras en blanco */
 
-body{background-image: url(./Imagenes/Fondo\ AAAArbol.webp); background-repeat: no-repeat ; background-size: cover;}
+body{background-image: url(./Imagenes/Fondo\ AAAArbol.webp); background-repeat: no-repeat ; background-size:cover
+; height: 1%;}
