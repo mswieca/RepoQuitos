@@ -11,5 +11,5 @@ h1{color: blue;}
 *{color: white;} 
 /* sirve para pintar el fondo de negro y las palabras en blanco */
 
-body{background-image: url(./Imagenes/Fondo\ AAAArbol.webp); background-repeat: no-repeat ; background-size:cover
-; height: 1%;}
+body{background-image: url("./Imagenes/Fondo\ AAAArbol.webp"); background-repeat: no-repeat ; background-size:cover;}
+h1{text-align: center;} 
