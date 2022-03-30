@@ -11,5 +11,37 @@ h1{color: blue;}
 *{color: white;} 
 /* sirve para pintar el fondo de negro y las palabras en blanco */
 
+table,th,td{
+border: 1px solid black;
+}
+tr:hover {background-color:aqua;}
+
 body{background-image: url("./Imagenes/Fondo\ AAAArbol.webp"); background-repeat: no-repeat ; background-size:cover;}
 h1{text-align: center;} 
+
+/* hay que hacer algo con el #col-der */
+
+#ModeloDeCaja{
+    width: 300px;
+    border: 10px solid red;
+    margin: 20px;
+}
+
+header{
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0px;
+    background-color: gray;
+
+}
+menu{
+    list-style-type: none;
+}
+menu > a > li {
+    display: inline;
+}
+
+footer{
+    position: fixed;
+    bottom: 0px;
+}
