@@ -23,7 +23,7 @@ h1{text-align: center;}
 
 #ModeloDeCaja{
     width: 300px;
-    border: 10px solid red;
+    border: 10px outset red;
     margin: 20px;
 }
 
@@ -44,4 +44,9 @@ menu > a > li {
 footer{
     position: fixed;
     bottom: 0px;
+}
+#icono-contacto{
+    position:fixed;
+    bottom: 30px;
+    right: 20px;
 }
